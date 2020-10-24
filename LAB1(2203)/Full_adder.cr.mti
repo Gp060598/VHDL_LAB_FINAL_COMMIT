@@ -1,0 +1,31 @@
+C:/Modeltech_pe_edu_10.4a/examples/LAB1(2203)/ripple_carry_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ripple_carry_adder_structural
+-- Compiling architecture structure of ripple_carry_adder_structural
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/LAB1(2203)/ripple_carry_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity test_ripple
+-- Compiling architecture test_bench_ripple_carry_adder of test_ripple
+** Warning: C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd(28): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd(30): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/LAB1(2203)/Full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\Full_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture adder of full_adder
+
+} {} {}}

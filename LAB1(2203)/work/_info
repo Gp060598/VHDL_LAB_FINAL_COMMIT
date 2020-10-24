@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples/O1
+Efull_adder
+Z0 w1598912581
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Modeltech_pe_edu_10.4a/examples/LAB1(2203)
+Z4 8C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\Full_adder.vhd
+Z5 FC:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\Full_adder.vhd
+l0
+L3
+V;::CBVOb;mgjjLK=d6f1J2
+!s100 oadC0^T6[o@<JZVBdA^k11
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1598913065
+!i10b 1
+Z8 !s108 1598913065.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\Full_adder.vhd|
+Z10 !s107 C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\Full_adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aadder
+R1
+R2
+DEx4 work 10 full_adder 0 22 ;::CBVOb;mgjjLK=d6f1J2
+l9
+L8
+V]<DTUmimZ=1zKb2RgLNQj0
+!s100 ME7Sh2KMJgm1>;aYURQNg2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eripple_carry_adder_structural
+Z13 w1599043161
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z16 8C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_adder.vhd
+Z17 FC:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_adder.vhd
+l0
+L4
+Vh8K7HdB?cRc0DgnS6TXzk3
+!s100 dOP]Nn^3]6^<>1H<KLFTW2
+R6
+32
+Z18 !s110 1599043168
+!i10b 1
+Z19 !s108 1599043168.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_adder.vhd|
+Z21 !s107 C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_adder.vhd|
+!i113 1
+R11
+R12
+Astructure
+R14
+R15
+R1
+R2
+DEx4 work 29 ripple_carry_adder_structural 0 22 h8K7HdB?cRc0DgnS6TXzk3
+l20
+L11
+VGdb0_hibTe=ACP`B28Ibd3
+!s100 `1OT2GW3c=@Y`hmDVXJ^e3
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Etest_ripple
+Z22 w1599062125
+R14
+Z23 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R1
+R2
+R3
+Z24 8C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd
+Z25 FC:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd
+l0
+L5
+VDNkPQ=oIzg?[FMzZX^mg@1
+!s100 V3Mbob[dCd3lQ8CDQ<CCR0
+R6
+32
+Z26 !s110 1599062128
+!i10b 1
+Z27 !s108 1599062128.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd|
+Z29 !s107 C:\Modeltech_pe_edu_10.4a\examples\LAB1(2203)\ripple_carry_tb.vhd|
+!i113 1
+R11
+R12
+Atest_bench_ripple_carry_adder
+R14
+R23
+R1
+R2
+Z30 DEx4 work 11 test_ripple 0 22 DNkPQ=oIzg?[FMzZX^mg@1
+l21
+L8
+VoUJ`;82`XfPiUVV7]kGkd3
+!s100 A<DMMT^[492@JJZdJTYLf0
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
